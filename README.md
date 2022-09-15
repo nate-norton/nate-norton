@@ -1,6 +1,6 @@
 - Hello, I’m @nate-norton
 - I have many hobbies! I love photography, hiking, lacrosse (I am part of the BYU lacrosse team), and cooking. Just to name a few!
-- I’m currently learning data science at BYU. I am a senior and I will be graduating April 2023. 
+- I’m currently learning statistics and data science at BYU. I am a senior and I will be graduating April 2023. 
 - I’m looking to collaborate on anything and everything that will help me to continue to learn and grow.
 - 📫 How to reach me ...
 -   instagram: natenortonn

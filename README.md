@@ -1,8 +1,12 @@
 Hello, I’m @nate-norton
 
 I'm a recent college graduate from BYU. A obtained a degree in Statistics with an emphasis in Data Science.
+
 Here are the repositories for my projects! 
+
 I’m looking to collaborate on anything and everything that will help me to continue to learn and grow.
+
+
 📫 How to reach me ...
 -   linkedin: Nathan Norton https://www.linkedin.com/in/nathan-norton-725498229/
 -   email: nathan26norton@gmail.com

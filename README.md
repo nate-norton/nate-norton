@@ -1,11 +1,12 @@
-- Hello, I’m @nate-norton
-- I have many hobbies! I love photography, hiking, lacrosse (I am part of the BYU lacrosse team), and cooking. Just to name a few!
-- I’m currently learning statistics and data science at BYU. I am a senior and I will be graduating April 2023. 
-- I’m looking to collaborate on anything and everything that will help me to continue to learn and grow.
-- 📫 How to reach me ...
--   instagram: natenortonn
--   linkedin: Nathan Norton
+Hello, I’m @nate-norton
+
+I'm a recent college graduate from BYU. A obtained a degree in Statistics with an emphasis in Data Science.
+Here are the repositories for my projects! 
+I’m looking to collaborate on anything and everything that will help me to continue to learn and grow.
+📫 How to reach me ...
+-   linkedin: Nathan Norton https://www.linkedin.com/in/nathan-norton-725498229/
 -   email: nathan26norton@gmail.com
+-   website: https://sites.google.com/view/nate-norton
 
 <!---
 nate-norton/nate-norton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,8 +4,6 @@ I'm a recent college graduate from BYU. A obtained a degree in Statistics with a
 
 Here are the repositories for my projects! 
 
-I’m looking for work! I'm looking for any jobs that are data-related! (data science, data analytics, data engineering, data visualization, etc.)
-
 
 📫 How to reach me ...
 -   linkedin: Nathan Norton https://www.linkedin.com/in/nathan-norton-725498229/
